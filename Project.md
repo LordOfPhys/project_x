@@ -234,5 +234,4 @@ CRM состоит из:
 ![DB](/db.png)	
 	
 ## Deploy Diagram
-![DD](/DeployDiagram.png)	
-
+![DD](/DeployDiagram.svg)	
