@@ -50,9 +50,8 @@ CRM состоит из:
 7. Оценить техническую инфраструктуру, вычислители, ОЗУ, долговременное хранилище, сеть, на период 5 лет эксплуатации.
 8. Дополнительно: оценить общую трудоёмкость решения (должности в разработке и человеко/месяцы трудозатрат)
 
-## Разрабоки группы
-* [Заготовка к презентации](https://docs.google.com/presentation/d/1y6QWRaDwOO5-LOeqW3I-x9YwzwfJVJZlM5_qJC_9oBw/edit?usp=sharing)
-* [Схемы](https://drive.google.com/file/d/167fYQh3RjtNu08GgwGgpsxvGoYCHqj8s/view?usp=sharing)
+## Use Case диаграмма
+![Use-Case](/Use-case.png)	
 
 ## Доменная модель
 ### Поддомены
